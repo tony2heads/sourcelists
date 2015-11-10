@@ -1,0 +1,75 @@
+8
+
+K. E. Randall, A. M. Hopkins, R. P. Norris & P. G. Edwards
+
+Table 5. S OURCES MEASURED AT MULTIPLE EPOCHS
+
+Source
+
+S1.4 C1813 Jy 2.78 8.37 3.81 2.67 5.59 3.26 13.34 7.12 3.25 2.75
+
+S1.4 NVSS Jy ... 8.75 4.091 ... ... ... ... 7.24 ... 2.87
+
+S1.4 PKSCAT90 Jy 3.02 8.6 4.1 2.87 5.9 3 12.3 7.4 3.27 2.8
+
+S2.3 C1813 Jy 2.93 5.94 2.44 1.81 3.42 1.94 8.80 3.54 1.90 1.98
+
+S2.7 PKSCAT90 Jy 2.84 5.8 2.4 1.7 3.1 1.68 7.4 2.9 1.6 2
+
+S4.8 C1813 Jy 1.85 3.64 1.27 1.03 1.69 0.93 5.14 1.32 0.92 1.25
+
+S4.8 PMN Jy 2.04 3.75 1.42 1.06 1.72 0.92 4.51 1.32 1.01 1.32
+
+S4.8 PKSCAT90 Jy 1.77 3.76 1.24 1.01 1.54 0.84 4.21 1.27 0.89 1.32
+
+S4.8 AT20G Jy 1.96 ... 1.66 1.025 1.79 ... ... 1.38 0.91 1.20
+
+S8.6 C1813 Jy 0.91 2.15 0.64 0.58 0.80 0.47 2.95 0.51 0.43 0.75
+
+S8.6 PKSCAT90 Jy 0.93 2.2 0.67 0.53 0.74 0.39 1.89 0.59 0.67 0.75
+
+S8.6 AT20G Jy 0.99 ... 0.75 0.57 0.86 ... ... 0.55 0.43 0.73
+
+PKS J0024−4202 PKS J0025−2602 PKS J0116−2052 PKS J0203−4349 PKS J0252−7104 PKS J0420−6223 PKS J1819−6345 PKS J1830−3602 PKS J1957−4222 PKS J2152−2828
+
+N OTES .– Flux densities given in this table cover ﬁve different epochs of time, and all errors on ﬂux density measurements are ∼ 10%. Frequencies are all in the observer’s frame. All PKSCAT90 measurements were taken before 1990, and could be from as early as 1965. C1813 observations were completed in 2008 and AT20G data measurements were completed between 2004 and 2007 (data spanning multiple frequencies was simultaneously taken). NVSS measurements were taken between 1993 and 1996, and PMN was completed in one year, in 1990.
+
+ple of 20 CSS sources show evidence of interaction or disturbance. Smith & Heckman (1989) found that 54% of their powerful radio galaxies had distorted nuclei, and 20% had a close companion. O’Dea (1998) suggests similar statistics for sample of CSS sources. In our sample we see seven sources interacting and/or distorted with close companion(s), two distorted sources, one possible double nucleus and 16 isolated sources. This is 27%, 8%, 4% and 61% of our sample respectively. We are thus seeing a much lower level of interaction or disturbance, in this sample (up to ∼ 39%) compared to much higher fractions in those previously published. Further deeper optical imaging and spectroscopy would reveal whether these objects are all from the same parent population, by removing resolution limitations and allowing us to determine whether nearby objects in the images are associated or merely appearing in projection. This morphological difference between our sample and the O’Dea sample suggests that the host galaxy properties of the CSS and GPS population may not be as well understood as previously suggested. Three optically unusual systems in our sample, PKS J1819−6345, PKS J0616−3456 and PKS J1223−4235, are further discussed, in Section 4.3. They consist of a blue disk host galaxy, a galaxy pair and a pair of merging galaxies. Figure 4 shows the SuperCOSMOS BJ − I distribution for our sample, split into (a) CSS and GPS sources, (b) CSS and GPS galaxies, and (c) CSS and GPS quasars. Figure 5 shows all 26 of the SuperCOSMOS BJ images in from our sample. We present BJ images here as this is the optical band most likely to highlight morphological distortions associated with star formation, although in our classiﬁcation we used multiple bands (BJ , R and I) to maximize our chances of identifying distorted or interacting sources.
+
+(a)
+
+CSS sources GPS sources
+
+3 2 1 0 Count
+(b)
+
+CSS Galaxies GPS Galaxies
+
+2
+
+1
+
+0
+(c)
+CSS Quasars GPS Quasars
+
+3 2 1 0
+
+1.0
+
+1.5
+
+2.0 BJ -I
+
+2.5
+
+3.0
+
+Figure 4. Panel (a) is the SuperCOSMOS BJ -I distribution for all 26 sources with optically identiﬁed counterparts, split into CSS and GPS sources. Panel (b) shows the distribution for CSS and GPS galaxies, while Panel (c) shows the CSS and GPS quasars.
+
+4.2.2 Redshift and Populations of sources Redshifts were obtained for all sources using NED, including 6 photometric and 20 spectroscopic redshifts. In Figure 6, we show redshift versus BJ − I and BJ − I versus BJ − R. These distributions suggest that we see two populations of objects, quasarlike sources, with blue colours, higher optical luminosities, and extending to higher redshifts; and luminous red galaxy (LRG)-type
+
+objects with redder colours, and restricted to lower redshifts. In Figure 6(a), we see the quasars as the blue objects with higher redshifts along the bottom, and the LRGs as the redder, nearby objects. In Figure 6(b), the population split between LRGs and quasars can still be seen, and we see the quasar like objects clustering to bluer colours in the bottom left, with the red LRG type objects toward the top right. It is also clear that the split between quasar-like objects and LRGs is a gradual change, as we would otherwise see a bimodal distribution in the BJ − I colours. We note that the error in SuperCOSMOS magnitudes is typically 0.3 − 0.5 magnitudes, and we treat these distributions with some caution. In addition, there is a 15 year gap between the BJ and R magnitudes used in SuperCOSMOS, and if our sources are optically variable, this may also have an effect. Figure 7(a) and (b) shows R-band magnitude versus both restframe luminosity and redshift, for both our sample and the O’Dea sample. The CSS and GPS sources are also split here by optical classiﬁcation as a galaxy or quasar. Overall, it appears that we are
+c 2011 RAS, MNRAS 000, 1–18
+
+

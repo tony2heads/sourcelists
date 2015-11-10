@@ -1,0 +1,32 @@
+0402-362 check
+0454-234 check
+0454-463 check
+05:20-365 aka 0521-365 check
+0537-441 check
+0607-157 check
+1057-797 check
+1253-055 aka 3C279 check
+1322-427 check
+1334-127 check
+1343-60  CenB Added -no model
+1421-490 check
+1510-089 check
+1613-586 check
+1622-253 check
+1741-038 check
+1742-289 SGR-A* Not added
+1830-210 check
+1921-293 check 
+1954-388 check
+2128-123 added no model (var)
+2153-69 alias 2153-699 -really surprising
+2223-052 check
+-30:42:47.4 unclear who
+B2203-188 alias 2203-188 check
+J000613-062338 0003-066 check
+J133739-125720 1334-127 check
+J172340-650036 1718-649 check
+J173302-130445 1730-130 check
+J191109-200655 alias 1908-201 added
+J2136+0041 2134+004 check
+
