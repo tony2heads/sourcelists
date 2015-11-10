@@ -1,0 +1,110 @@
+#IAUname,Alias1,Alias2,redshift,Q/B/G,RA2000,Dec2000,fromfile,LAS,Xrayref,LFVref,etc
+0038+32, 3C19,,,,,,LFV list, ,, C?
+0051+317, 4C30.02,,,,,,LFV list, ,, Ct?
+0056-001,  ,,,,,,LFV list, ,, C? Mc?
+0101-128,  ,,,,,,LFV list, ,, Mc?
+0106+13, 3C33,,,,,,LFV list, ,, W
+0113+154, 4C15.04,,,,,,LFV list, ,, Ct?
+0133+476, DA55,,,,,,LFV list, ,, W
+0157-31,  ,,,,,,LFV list, ,, H?
+0202+149, 4C15.05,,,,,,LFV list, ,, F C?
+0224+671, 4C67.05,,,,,,LFV list, ,, F
+0235+164, AO0235+164,,,,,,LFV list, ,, W? C SC N
+0251+200, 3C74,,,,,,LFV list, ,, Ct?
+0256+07, OD94.7,,,,,,LFV list, ,, C
+0316+162, CTA21,,,,,,LFV list, ,, F?
+0316+41, 3C84,,,,,,LFV list, ,, W F? FE?
+0320+053, DA101,,,,,,LFV list, ,, F
+0333+321, NRAO140,,,,,,LFV list, ,, F C N
+0336-01, CTA26,,,,,,LFV list, ,, C
+0348+175, 4C17.19,,,,,,LFV list, ,, Ct
+0400+25, CTD26,,,,,,LFV list, ,, W C
+0402+160, NRAO161,,,,,,LFV list, ,, F? Ct?
+0420-01,  ,,,,,,LFV list, ,, C
+0422+005,  ,,,,,,LFV list, ,, F?
+0422+178, 4C17.25,,,,,,LFV list, ,, Ct?
+0430+052, 3C120,,,,,,LFV list, ,, W? F FE N
+0446+11, OF176,,,,,,LFV list, ,, C?
+0518+165, 3C138,,,,,,LFV list, ,, F? FE?
+0537-441,  ,,,,,,LFV list, ,, N
+0538+598, 3C147,,,,,,LFV list, ,, FE?
+0548+165, DA190,,,,,,LFV list, ,, F?
+0605-085,  ,,,,,,LFV list, ,, F
+0607-157,  ,,,,,,LFV list, ,, F N
+0618+145, 3C158,,,,,,LFV list, ,, Ct
+0621+400, 3C159,,,,,,LFV list, ,, F N
+0631+191, NRAO239,,,,,,LFV list, ,, Ct?
+0632+191,  ,,,,,,LFV list, ,, F?
+0706+261, 4C26.26,,,,,,LFV list, ,, SC?
+0710+439, VRO43.07.01,,,,,,LFV list, ,, W?
+0723-008,  ,,,,,,LFV list, ,, F D
+0725+147, 3C181,,,,,,LFV list, ,, N
+0735+178,  ,,,,,,LFV list, ,, D Ct
+0736+017, OI161,,,,,,LFV list, ,, F Mc SC N
+0738+31, OI363,,,,,,LFV list, ,, W F
+0753+023,  ,,,,,,LFV list, ,, Mc?
+0814+425, VRO42.08.02,,,,,,LFV list, ,, W?
+0820+22,  ,,,,,,LFV list, ,, D
+0833-450, Vela_pulsar,,,,,,LFV list, ,, Mc N
+0834-201,  ,,,,,,LFV list, ,, F
+0839+18,  ,,,,,,LFV list, ,, D?
+0851+20, OJ287,,,,,,LFV list, ,, W D
+0859-140, OJ-199,,,,,,LFV list, ,, F
+0945+408,  ,,,,,,LFV list, ,, F SC?
+0954+25, OK290,,,,,,LFV list, ,, W
+0958+256, 4C25.30,,,,,,LFV list, ,, Ct?
+1019+222, 3C241,,,,,,LFV list, ,, Ct?
+1036-697,  ,,,,,,LFV list, ,, Mc? N
+1055+108,  ,,,,,,LFV list, ,, F D? H? Mc? SC N S
+1116+12,  ,,,,,,LFV list, ,, H?
+1117+146,  ,,,,,,LFV list, ,, F D N
+1123+303, 4C30.21,,,,,,LFV list, ,, Ct?
+1127-145, OM-146,,,,,,LFV list, ,, F
+1148-001,  ,,,,,,LFV list, ,, F Mc N
+1156+295, 4C29.45,,,,,,LFV list, ,, F
+1219+04,  ,,,,,,LFV list, ,, W?
+1226+023, 3C273,,,,,,LFV list, ,, FE? N?
+1253-055, 3C279,,,,,,LFV list, ,, F FE? N
+1341+144,  ,,,,,,LFV list, ,, N
+1358+624, 4C62.23,,,,,,LFV list, ,, F
+1422+202, 4C20.33,,,,,,LFV list, ,, F? Ct?
+1454-06,  ,,,,,,LFV list, ,, H?
+1504-167, OR-162,,,,,,LFV list, ,, F H Mc FE N
+1510-089, OR-017,,,,,,LFV list, ,, F H? Mc? SC FE N
+1524-136, OR-140,,,,,,LFV list, ,, F H N
+1529+11, OR149,,,,,,LFV list, ,, W
+1543+00,  ,,,,,,LFV list, ,, D
+1546+02,  ,,,,,,LFV list, ,, D
+1548+05,  ,,,,,,LFV list, ,, D
+1551+13, OR186,,,,,,LFV list, ,, W
+1606+10, DA401,,,,,,LFV list, ,, D
+1611+343, DA406,,,,,,LFV list, ,, W? F D Ct Mc N
+1633+382, 4C38.41,,,,,,LFV list, ,, Ct? SC N
+1641+399, 3C345,,,,,,LFV list, ,, W? F N
+1643-22,  ,,,,,,LFV list, ,, H?
+1645+174, NRAO517,,,,,,LFV list, ,, F?
+1729+211,  ,,,,,,LFV list, ,, Ct?
+1730-130, NRAO530,,,,,,LFV list, ,, F? FE N
+1741+27, 4C27.38,,,,,,LFV list, ,, SC
+1854-663,  ,,,,,,LFV list, ,, Mc?
+1858+171,  ,,,,,,LFV list, ,, N
+1901+171, 3C395,,,,,,LFV list, ,, F D
+1954+513, LHE479,,,,,,LFV list, ,, W
+2015+131, 4C13.76,,,,,,LFV list, ,, Ct?
+2032-35,  ,,,,,,LFV list, ,, H?
+2033+187, OW155.5,,,,,,LFV list, ,, F Ct? N
+2052-474,  ,,,,,,LFV list, ,, Mc?
+2056+445, 4C44.37,,,,,,LFV list, ,, Ct?
+2144+09, OX074,,,,,,LFV list, ,, C?
+2145+067, DA562,,,,,,LFV list, ,, F? C?
+2147+147, 3C437.1,,,,,,LFV list, ,, H N
+2200+420, BL_Lac,,,,,,LFV list, ,, W F FE N
+2201+31, 4C31.63,,,,,,LFV list, ,, C
+2223-052, 3C446,,,,,,LFV list, ,, F?
+2223+21,  ,,,,,,LFV list, ,, C?
+2230+114, CTA102,,,,,,LFV list, ,, W F? C H FE N
+2251+158, 3C454.3,,,,,,LFV list, ,, W F C H Mc SC FE N
+2255+415, 4C41.45,,,,,,LFV list, ,, F?
+2319+27, 4C27.50,,,,,,LFV list, ,, C?
+2338+132,  ,,,,,,LFV list, ,, Ct? N?
+2345-167,  ,,,,,,LFV list, ,, N

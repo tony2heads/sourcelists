@@ -1,0 +1,101 @@
+#IAUname,Alias1,Alias2,redshift,Q/B/G,RA2000,Dec2000,fromfile,LAS,Xrayref,LFVref,etc
+0007+171, $,, 1.601,,,,Xray old,, P
+0056-001, 4C-00.06,, 0.720,,,,Xray old,, P
+0106+013, 4C01.02,, 2.107,,,,Xray old,, P
+0112-017, PKS,, 1.365,,,,Xray old,, P
+0119+041, PKS,, 0.637,,,,Xray old,, P
+0133+207, 3C47,, 0.425,,,,Xray old,, MH KPW
+0135-247, PKS,, 0.831,,,,Xray old,, P
+0229+131, 4C13.14,, 2.065,,,,Xray old,, P
+0235+285, 4C28.07,, 1.213,,,,Xray old,, P
+0237+040, OD062,, 0.978,,,,Xray old,, P
+0237-233, PKS,, 2.223,,,,Xray old,, P
+0312-770, PKS,, 0.223,,,,Xray old,, E
+0336-019, $,, 0.852,,,,Xray old,, P
+0403-132, PKS,, 0.571,,,,Xray old,, K
+0414-060, 3C110,, 0.781,,,,Xray old,, E
+0420-014, PKS,, 0.915,,,,Xray old,, P
+0424-131, PKS,, 2.165,,,,Xray old,, KF
+0438-436, PKS,, 2.852,,,,Xray old,, P
+0440-003, NRAO190,, 0.850,,,,Xray old,, OSC
+0458-020, 4C-02.19,, 2.286,,,,Xray old,, K
+0518+165, 3C138,, 0.760,,,,Xray old,, P
+0528-250, PKS,, 2.765,,,,Xray old,, P
+0537-286, PKS,, 3.110,,,,Xray old,, P
+0537-441, PKS,, 0.894,,,,Xray old,, P
+0538+498, 3C147,, 0.545,,,,Xray old,, P
+0607-157, PKS,, 0.324,,,,Xray old,, P
+0637-752, PKS,, 0.651,,,,Xray old,, K
+0642+449, OH471,, 3.402,,,,Xray old,, P
+0710+118, 3C175,, 0.768,,,,Xray old,, JPR KPW
+0723-008, $,, 0.128,,,,Xray old,, P
+0736+017, PKS,, 0.191,,,,Xray old,, DSC
+0738+313, B2,, 0.630,,,,Xray old,, P
+0740+380, 3C186,, 1.063,,,,Xray old,, RP KPW
+0802+104, 3C191,, 1.956,,,,Xray old,, JPR KPW
+0805+046, 4C05.34,, 2.877,,,,Xray old,, KF
+0833+654, 3C204,, 1.112,,,,Xray old,, MH KPW
+0835+580, 3C205,, 1.534,,,,Xray old,, MH KPW
+0838+133, 3C207,, 0.684,,,,Xray old,, PH KPW
+0850+140, 3C208,, 1.110,,,,Xray old,, MH KPW
+0903+169, 3C215,, 0.411,,,,Xray old,, PH KPW
+0906+015, 4C01.24,, 1.018,,,,Xray old,, P
+0923+392, 4C39.25,, 0.699,,,,Xray old,, P
+0953+254, OK290,, 0.717,,,,Xray old,, P
+1028+313, B2,, 0.177,,,,Xray old,, KF
+1040+123, 3C245,, 1.029,,,,Xray old,, KPW
+1058+726, W1,, 0.375,,,,Xray old,, KF
+1100+772, 3C249.1,, 0.311,,,,Xray old,, PH KPW
+1111+408, 3C254,, 0.734,,,,Xray old,, MH KPW
+1127-145, PKS,, 1.187,,,,Xray old,, P
+1137+660, 3C263,, 0.652,,,,Xray old,, PH KPW
+1206-399, PKS,, 0.966,,,,Xray old,, KF
+1217+023, PKS,, 0.240,,,,Xray old,, KF
+1223+252, 4C25.40,, 0.268,,,,Xray old,, KF
+1225+317, B2,, 2.230,,,,Xray old,, KF
+1226+023, 3C273,, 0.158,,,,Xray old,, PFJ
+1237-131, PKS,, 0.753,,,,Xray old,, P
+1250+568, 3C277.1,, 0.321,,,,Xray old,, KPW
+1252+119, PKS,, 0.871,,,,Xray old,, P
+1253-055, 3C279,, 0.538,,,,Xray old,, K
+1258+286, 5C04.127,, 1.373,,,,Xray old,, KF
+1258+287, 5C04.105,, 0.650,,,,Xray old,, KF
+1308+326, B2,, 0.996,,,,Xray old,, DSC
+1328+254, 3C287,, 1.055,,,,Xray old,, P
+1328+307, 3C286,, 0.849,,,,Xray old,, P
+1331+170, MC3,, 2.081,,,,Xray old,, KF
+1402+044, PKS,, 3.202,,,,Xray old,, KF
+1422+202, 4C20.33,, 0.871,,,,Xray old,, KF
+1442+101, OQ172,, 3.530,,,,Xray old,, P
+1504-166, MC,, 0.876,,,,Xray old,, P
+1510-089, PKS,, 0.361,,,,Xray old,, P
+1524+101, 4C10.43,, 1.358,,,,Xray old,, KF
+1545+210, 3C323.1,, 0.264,,,,Xray old,, PH
+1548+115, 4C11.50,, 0.436,,,,Xray old,, KF
+1555+332, GC,, 0.942,,,,Xray old,, KF
+1556+334, GC,, 1.650,,,,Xray old,, KF
+1618+176, 3C334,, 0.555,,,,Xray old,, MH KPW
+1622+238, 3C336,, 0.927,,,,Xray old,, KF
+1633+382, 4C38.41,, 1.814,,,,Xray old,, P
+1635+119, MC2,, 0.146,,,,Xray old,, P
+1641+343, DA406,, 1.401,,,,Xray old,, P
+1641+399, 3C345,, 0.595,,,,Xray old,, PJ
+1704+608, 3C351,, 0.371,,,,Xray old,, KPW
+1725+044, PKS,, 0.293,,,,Xray old,, P
+1739+522, 4C51.37,, 1.375,,,,Xray old,, P
+1921-293, $,, 0.352,,,,Xray old,, P
+2037+511, 3C418,, 1.686,,,,Xray old,, PJ
+2120+168, 3C432,, 1.805,,,,Xray old,, KF
+2121+053, OX036,, 1.878,,,,Xray old,, KF
+2126-158, PKS,, 3.270,,,,Xray old,, P
+2135-147, PKS,, 0.200,,,,Xray old,, KF
+2141+175, OX169,, 0.213,,,,Xray old,, KF
+2143-156, PKS,, 2.055,,,,Xray old,, P
+2201+315, 4C31.63,, 0.297,,,,Xray old,, P
+2216-038, 4C-03.79,, 0.901,,,,Xray old,, P
+2223-052, 3C446,, 1.404,,,,Xray old,, K
+2230+114, 4C11.69,, 1.037,,,,Xray old,, P
+2234+282, B2,, 0.795,,,,Xray old,, P
+2251+158, 3C454.3,, 0.859,,,,Xray old,, P
+2254+024, PKS,, 2.090,,,,Xray old,, KF
+2345-167, PKS,, 0.600,,,,Xray old,, UJPF

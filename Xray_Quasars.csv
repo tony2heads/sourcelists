@@ -1,0 +1,137 @@
+#IAUname,Alias1,Alias2,redshift,Q/B/G,RA2000,Dec2000,fromfile,LAS,Xrayref
+0007+171, 0007+171,, 1.601,Q,,,Xray quasar, , l
+0017+154, 3C9,, 2.012,Q,,,Xray quasar, , H
+0056-001, 4C-00.06,, 0.720,Q,,,Xray quasar, , l
+0106+013, 4C01.02,, 2.107,Q,,,Xray quasar, , o k
+0109+176, 4C17.09,, 2.157,Q,,,Xray quasar, 14, k
+0112-017, PKS0112-017,, 1.365,Q,,,Xray quasar, , z
+0119+041, PKS0119+041,, 0.637,Q,,,Xray quasar, , o
+0133+207, 3C47,, 0.425,Q,,,Xray quasar, 70, z
+0134+329, 3C48,, 0.367,Q,,,Xray quasar, , H
+0135-247, PKS0135-247,, 0.831,Q,,,Xray quasar, , l
+0226-038, 4C-03.07,, 2.064,Q,,,Xray quasar, , H
+0229+131, 4C13.14,, 2.065,Q,,,Xray quasar, , o
+0229+341, 3C68.1,, 1.238,Q,,,Xray quasar, , H
+0234+285, 4C28.07,, 1.213,Q,,,Xray quasar, , o
+0237-027, PKS0237-027,, 1.116,Q,,,Xray quasar, , H
+0237-235, PKS0237-235,, 2.263,Q,,,Xray quasar, , k H
+0237+040, OD062,, 0.978,Q,,,Xray quasar, , h
+0312-770, PKS0312-770,, 0.223,Q,,,Xray quasar, , z -H
+0333+321, NRAO140,, 1.258,Q,,,Xray quasar, , H
+0336-019, 0336-019,, 0.852,Q,,,Xray quasar, , o h
+0400+258, B2_0400+258,, 2.109,Q,,,Xray quasar, , h
+0403-132, PKS0403-132,, 0.571,Q,,,Xray quasar, , l
+0409+299, 3C108,, 1.213,Q,,,Xray quasar, , H
+0414-060, 3C110;4C-05.17,, 0.781,Q,,,Xray quasar, , z H
+0420-014, PKS0420-014,, 0.915,Q,,,Xray quasar, , k
+0424-131, PKS0424-131,, 2.165,Q,,,Xray quasar, <1, z
+0438-436, PKS0438-436,, 2.852,Q,,,Xray quasar, , z
+0440-003, NRAO190,, 0.850,Q,,,Xray quasar, , k
+0458-020, 4C-02.09,, 2.286,Q,,,Xray quasar, , h
+0518+165, 3C138,, 0.760,Q,,,Xray quasar, 1, z
+0528-250, PKS0528-250,, 2.765,Q,,,Xray quasar, , z
+0537-441, PKS0537-441,, 0.894,Q,,,Xray quasar, , z
+0537-286, PKS0537-286,, 3.110,Q,,,Xray quasar, , z -H
+0538+498, 3C147,, 0.545,Q,,,Xray quasar, 1, z
+0607-157, PKS0607-157,, 0.324,Q,,,Xray quasar, , h
+0637-752, PKS0637-752,, 0.651,Q,,,Xray quasar, , z -H
+0642+449, OH471,, 3.402,Q,,,Xray quasar, , z -H
+0710+118, 3C175,, 0.768,Q,,,Xray quasar, 50, z
+0732-008, 0732-008,, 0.128,Q,,,Xray quasar, , h -H
+0736+017, PKS0736+017,, 0.191,Q,,,Xray quasar, , k
+0738+313, B2_0738+313,, 0.630,Q,,,Xray quasar, , h
+0740+380, 3C186,, 1.063,Q,,,Xray quasar, 2, z
+0758+114, 3C190,, 1.195,Q,,,Xray quasar, , H
+0802+103, 3C191,, 1.956,Q,,,Xray quasar, 5, k
+0805+046, 4C05.34,, 2.877,Q,,,Xray quasar, 4, k
+0809+483, 3C196,, 0.871,Q,,,Xray quasar, , H
+0827+243, OJ248,, 2.046,Q,,,Xray quasar, , H
+0830+115, MC5_0830+115,, 2.974,Q,,,Xray quasar, , k -H
+0833+654, 3C204,, 1.112,Q,,,Xray quasar, 36, z
+0835+580, 3C205,, 1.534,Q,,,Xray quasar, 18, z
+0838+133, 3C207,, 0.684,Q,,,Xray quasar, 14, z
+0850+140, 3C208,, 1.110,Q,,,Xray quasar, , z
+0853+193, OTL,, 0.331,Q,,,Xray quasar, , k -H
+0855+143, 3C212,, 1.043,Q,,,Xray quasar, , H
+0903+169, 3C215,, 0.411,Q,,,Xray quasar, 45, z
+0906+013, 4C01.24,, 1.018,Q,,,Xray quasar, , o k
+0906+430, 3C216,, 0.670,Q,,,Xray quasar, , H
+0923+392, 4C39.25,, 0.699,Q,,,Xray quasar, , z
+0938+119, MC5_0938+119,, 3.190,Q,,,Xray quasar, , z
+0953+254, OK290,, 0.717,Q,,,Xray quasar, , o
+1004+130, 4C13.41,, 0.240,Q,,,Xray quasar, , z
+1023+067, 3C243,, 1.699,Q,,,Xray quasar, 14, z
+1028+313, B2_1028+313,, 0.177,Q,,,Xray quasar, , z
+1040+123, 3C245,, 1.029,Q,,,Xray quasar, , t
+1058+726, W1_1058+726,, 0.375,Q,,,Xray quasar, , k
+1100+772, 3C249.1,, 0.311,Q,,,Xray quasar, 23, z
+1111+408, 3C254,, 0.734,Q,,,Xray quasar, 13, k
+1127-143, PKS1127-143,, 1.187,Q,,,Xray quasar, , h
+1137+660, 3C263,, 0.652,Q,,,Xray quasar, 45, z
+1206-399, PKS1206-399,, 0.966,Q,,,Xray quasar, , z -H
+1217+023, PKS1217+023,, 0.240,Q,,,Xray quasar, , z
+1223+252, 4C25.40,, 0.268,Q,,,Xray quasar, , z
+1225+317, B2_1125+317,, 2.230,Q,,,Xray quasar, , z
+1226+023, 3C273,, 0.158,Q,,,Xray quasar, , z
+1237-101, PKS1237-101,, 0.753,Q,,,Xray quasar, , z
+1250+568, 3C277.1,, 0.321,Q,,,Xray quasar, 2, k
+1252+119, PKS1252+119,, 0.871,Q,,,Xray quasar, , z
+1253-055, 3C279,, 0.538,Q,,,Xray quasar, , z
+1258+286, 5C04.127,, 1.373,Q,,,Xray quasar, , k
+1258+287, 5C04.105,, 0.650,Q,,,Xray quasar, , k
+1308+326, B2_1308+326,, 0.996,Q,,,Xray quasar, , l -H
+1328+254, 3C287,, 1.055,Q,,,Xray quasar, 1, k
+1328+307, 3C286,, 0.849,Q,,,Xray quasar, 1, k
+1331+170, MC3_1331+170,, 2.081,Q,,,Xray quasar, , z
+1340+606, 3C288.1,, 0.961,Q,,,Xray quasar, , H
+1402+044, PKS1402+044,, 3.202,Q,,,Xray quasar, , z -H
+1416+067, 3C298,, 1.439,Q,,,Xray quasar, , H
+1422+202, 4C20.33,, 0.871,Q,,,Xray quasar, 11, z
+1435+248, 4C24.32,, 1.373,Q,,,Xray quasar, , H
+1442+101, OQ172,, 3.530,Q,,,Xray quasar, , k -H
+1458+106, MC2,, 0.563,Q,,,Xray quasar, , H
+1502+106, PKS1502+106,, 1.833,Q,,,Xray quasar, , h
+1504-167, MC_1504-167,, 0.876,Q,,,Xray quasar, , h
+1510-089, PKS1510-089,, 0.361,Q,,,Xray quasar, , k
+1522+155, MC3,, 0.628,Q,,,Xray quasar, , H
+1524+101, 4C10.43,, 1.358,Q,,,Xray quasar, , z
+1545+210, 3C323.1,, 0.264,Q,,,Xray quasar, 68, k
+1548+114, 4C11.50,, 0.436,Q,,,Xray quasar, 67?, z
+1555+001, 1555+001,, 1.770,Q,,,Xray quasar, , h
+1555+332, GC1555+332,, 0.942,Q,,,Xray quasar, , z
+1556+335, GC1556+335,, 1.650,Q,,,Xray quasar, , z
+1606+289, 4C28.40,, 1.989,Q,,,Xray quasar, , H
+1611+343, DA406,, 1.401,Q,,,Xray quasar, , h
+1618+177, 3C334,, 0.555,Q,,,Xray quasar, 51?, k
+1622+238, 3C336,, 0.927,Q,,,Xray quasar, 22, k
+1623+269, 4C26.48,, 0.779,Q,,,Xray quasar, , H
+1633+382, 4C38.41,, 1.814,Q,,,Xray quasar, , k
+1635+119, MC2_1635+119,, 0.146,Q,,,Xray quasar, , z
+1641+399, 3C345,, 0.595,Q,,,Xray quasar, , k
+1704+608, 3C351,, 0.371,Q,,,Xray quasar, 58, z
+1725+044, PKS1725+044,, 0.293,Q,,,Xray quasar, , k
+1729+501, 4C50.43,, 1.107,Q,,,Xray quasar, , k
+1730-130, NRAO530,, 0.908,Q,,,Xray quasar, , H
+1739+522, 4C51.37,, 1.375,Q,,,Xray quasar, , h
+1828+487, 3C380,, 0.692,Q,,,Xray quasar, , H
+1921-293, 1921-293,, 0.352,Q,,,Xray quasar, , l
+2037+511, 3C418,, 1.686,Q,,,Xray quasar, , k
+2120+168, 3C432,, 1.805,Q,,,Xray quasar, 12, k
+2121+053, OX036,, 1.878,Q,,,Xray quasar, , k
+2126-158, PKS2126-158,, 3.270,Q,,,Xray quasar, , z -H
+2131-021, PKS2131-021,, 0.560,Q,,,Xray quasar, , H
+2135-147, PKS2135-147,, 0.200,Q,,,Xray quasar, 150, z
+2141+175, OX169,, 0.213,Q,,,Xray quasar, , z
+2143-156, PKS2143-156,, 2.055,Q,,,Xray quasar, , l
+2201+315, 4C31.63,, 0.297,Q,,,Xray quasar, , h
+2201+171, MC1,, 1.067,Q,,,Xray quasar, , H
+2216-038, 4C-03.79,, 0.901,Q,,,Xray quasar, , k
+2223-052, 3C446,, 1.404,Q,,,Xray quasar, , z
+2230+114, 4C11.69,, 1.037,Q,,,Xray quasar, , z
+2234+282, B2_2234+282,, 0.795,Q,,,Xray quasar, , l
+2251+158, 3C454.3,, 0.859,Q,,,Xray quasar, , k
+2251-178, MR2251-178,, 0.068,Q,,,Xray quasar, , k -H
+2251+113, 4C11.72,, 0.323,Q,,,Xray quasar, , k
+2254+024, PKS2254+024,, 2.090,Q,,,Xray quasar, , z
+2344+092, 4C09.74,, 0.677,Q,,,Xray quasar, , z
+2345-167, PKS2345-167,, 0.600,Q,,,Xray quasar, , k

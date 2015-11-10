@@ -1,0 +1,68 @@
+# ID                                | Gal l  Gal b  | RA(J2000)      dec(J2000) unc[arcsec] source            | redshift| NED Object type ~ 1400MHz fluz IRAS/X-ray    pnt  comment
+PKS 0023-26  OB-238                 |  42.27 -84.17 | 00:25:49.16  -26:02:12.6   mas        VLBI 2.3/8.4 GHz  | z=0.32  | Sy                       9 Jy                ok   CSS src
+PKS 0043-42                         | 306.61 -74.96 | 00:46:17.75  -42:07:51.5   1.25x1.25  2Mass             | z=0.12  | E, LINER                 8 Jy                ok   < ~4', FRII
+3C 48                               | 133.96 -28.72 | 01:37:41.30  +33:09:35.1   mas        VLBI 2.3/8.4 GHz  | z=0.37  | Sy 1.5                  16 Jy     I, X       ok   <10", core dominated with faint ext'd em
+PKS 0316+16  CTA 21                 | 166.64 -33.60 | 03:18:57.80  +16:28:32.7   mas        VLBI 2.3/8.4 GHz  | z=0.91  | QSO                      8 Jy                ok   ~compact, GPS src
+Perseus A  NGC 1275  3C 84          | 150.58 -13.26 | 03:19:48.16  +41:30:42.1   mas        VLBI 2.3/8.4 GHz  | v=5264  | LIRG Sy 1.5 FRI cD      13 Jy     I, X       ok?  strong core & jet inside 10' radio halo, BLLAC, 
+Fornax A  NGC 1316  PKS 0320-37     | 240.16 -56.69 | 03:22:41.51  -37:12:33.4   7.5x7.5    LV                | v=1760  | LINER S0              ~148 Jy     I, X       no   lobes ~ 1 deg, core low flux density, FRI core FRII lobes
+3C 098  PKS 0356+10                 | 179.84 -31.05 | 03:58:54.43  +10:26:03.0   1.25x1.25  2M                | v=9130  | Sy 2 FRII NLRG          10 Jy                no   ~5', double lobes
+PKS 0408-65                         | 278.64 -40.88 | 04:08:20.38  -65:45:09.1   mas        VLBI 2.3/8.4 GHz  | z=0.96  | BLLAC?                  15 Jy                ok   compact, GPS source
+PKS 0410-75                         | 288.98 -36.13 | 04:08:49.07  -75:07:13.7   7.5x7.5    Molonglo 408 MHz  | z=0.69  | NLRG;                   14 Jy                ok   ~15"; FRII, lobe-domin, pol.
+3C 123                              | 170.58 -11.66 | 04:37:04.38  +29:40:13.8   mas        VLBI 2.3/8.4 GHz  | z=0.22  | LERG, FRII,             47 Jy     X          ok   <1'
+PKS 0438-43                         | 248.41 -41.57 | 04:40:17.18  -43:33:08.6   mas        VLBI 2.3/8.4 GHz  | z=2.86  | QSO;                     6 Jy     IRAS deep  ok   ~compact, 2-comp 
+Pictor A  PKS 0518-45               | 251.60 -34.63 | 05:19:49.69  -45:46:44.5   1.25x1.25  MOST              | z=0.04  | LINER S0 pec            69 Jy     X          no   ~6', strong double lobes, FRII
+3C 138  PKS 0518+16                 | 187.40 -11.34 | 05:21:09.89  +16:38:22.1   mas        VLBI 2.3/8.4 GHz  | z=0.76  | Sy 1.5, core-dom;        9 Jy     X          ok   compact <1", CSS src, pol, triple-comp, no flux var: flux calib
+PKS 0521-36  ESO 362-G021           | 240.61 -32.72 | 05:22:57.99  -36:27:30.9   mas        VLBI 2.3/8.4 GHz  | z=0.06  | E, FRI, BLLAC Sy 1      17 Jy     I, X, Gam  ok   arcsec scale, core & jet
+Taurus A  3C 144 Crab  PKS 0531+21  | 184.56  -5.78 | 05:34:31.97  +22:00:52.1   0.5x0.5    opt/psr           |         | SNR, Psr;              930 Jy     I, X, Gam  no   ~5' @ 160MHz, single comp
+Orion A  M42  3C 145  PKS 0532-05   | 209.01 -19.38 | 05:35:17.26  -05:23:28.8   7.5x7.5    Molonglo 408MHz   |         | HII, *Cl,              410 Jy     X          no   < ~60'?
+MC 74                               | 279.44 -31.67 | 05:38:43.50  -69:04:57.0  50x50       PKS               |         | HII, in 30 Dor;         34 Jy                no   prob ext'd
+3C 147.1  PKS 0539-01               | 206.53 -16.36 | 05:41:42.12  -01:53:54.5  12.5x12.5   Molonglo 408 MHz  |         | HII;                    64 Jy                no   prob ext'd
+3C 147                              | 161.69  10.30 | 05:42:36.14  +49:51:07.2   mas        VLBI 2.3/8.4 GHz  | z=0.55  | Sy 1.8                  22 Jy     X          ok   < ~2", core dom, faint ext'd 
+3C 161  PKS 0624-05                 | 215.44  -8.07 | 06:27:10.12  -05:53:05.2   0.4x0.4    PKS90             |         | --                      18 Jy                ok?  VLA resolved, symm double
+PKS 0750-26  OHIO I -248.3          | 243.16  +0.37 | 07:52:22.30  -26:25:37.0  50x50       PKS               |         | HII                     11 Jy                no   prob ext'd
+3C 196                              | 171.17  33.24 | 08:13:36.03  +48:13:02.6   0.2x0.13   opt/rad           | z=0.87  | Sy1.8, DLAS, FRII       14 Jy                ok   <10", double src
+Puppis A  PKS 0822-42               | 260.60  -3.14 | 08:24:07.3   -42:59:47    50x50       PKS90             |         | SNR                     18 Jy                no   prob ext'd
+Vela X  CTB 26                      | 263.81  -3.37 | 08 33 32     -45 43 42   180x180,     Simbad/radio      |         | Gal Rad src: SNR?       ?? Jy     Gam        no   
+Vela  PMNM 083337.8-450113?         | 263.55  -2.79 | 08:35:20.66  -45:10:35.2   mas        VLBI 2.3/8.4 GHz  |         | --                      few Jy    X          ??   ID?
+CTB 31                              | 267.95  -1.06 | 08:59:07.3   -47:31:23    50x50       PKS90             |         | SNR;                   250 Jy                no   prob ext'd
+CTB 32                              | 265.14   1.45 | 08:59:27.10  -43:45:09.0  15x10       PMN 4.85 GHz      |         | HII;                   260 Jy                no   prob ext'd
+Hydra A  3C 218  PKS 0915-11        | 242.93  25.09 | 09:18:05.28  -12:05:48.9  10x10       phot              | z=0.05  | S0 Sy 3 LINER  FRI;     43 Jy     X          ok?  tot ext ~7', main comp ~1.5', tailed radio src
+RCW 42                              | 274.01  -1.13 | 09:24:25.60  -51:59:37.0  50x50       PKS               |         | HII;                    30 Jy                no   prob ext'd
+3C 227  PKS 0945+07                 | 228.58  42.29 | 09:47:45.15  +07:25:20.6   0.5x0.5    SDSS              | z=0.09  | Sy 1.5, BLRG;            7 Jy                ok?  ~4', FRII
+3C 249.1                            | 130.39  38.55 | 11:04:13.69  +76:58:58.0   0.3x0.05   opt/rad           | z=0.31  | Sy 1, FRII;              2 Jy     X          ok   <1'
+PKS 1209-52                         | 296.95   9.25 | 12:11:55.9   -53:09:37    50x50       PKS90             |         | SNR;                    62 Jy                no   prob ext'd
+3C 270  NGC 4261  PKS 1216+06       | 281.80  67.37 | 12:19:22.98  +05:49:30.5   0.5x0.5    SDSS              | v=2238  | LINER Sy;               18 Jy     X          no   double lobe ~ 7'; FRI
+3C 273  PKS 1226+02                 | 289.95  64.36 | 12:29:06.70  +02:03:08.6   mas        VLBI 2.3/8.4 GHz  | z=0.16  | Sy 1.0 ULIRG blazar,    45 Jy     I, X, Gam  ok   compact core and jet of ~25", circ pol
+Virgo A  3C 274  M87  PKS 1228+12   | 283.78  74.49 | 12:30:49.42  +12:23:28.0   mas        VLBI 2.3/8.4 GHz  | v=1307  | Sy LINER FRI, cD;      220 Jy     I, X       ok   < ~1', core dominated
+3C 279  PKS 1253-05                 | 305.10  57.06 | 12:56:11.17  -05:47:21.5   mas        VLBI 2.3/8.4 GHz  | z=0.54  | blazar;                 10 Jy     I, X, Gam  ok   <20", BLLAC, OVV
+Centaurus A  PKS 1322-42  NGC 5128  | 309.52  19.42 | 13:25:27.62  -43:01:08.8   mas        VLBI 2.3/8.4 GHz  | v= 547  | S0 pec, Sy2;             4 Jy     I, X, Gam  no   core ~ 10", lobes ~ 9deg
+3C 286                              |  56.52  80.67 | 13:31:08.29  +30:30:33.0   mas        VLBI 2.3/8.4 GHz  | z=0.85  | DLAS, Sy 1.5 core-dom;  15 Jy     X          ok   <~5", primary flux calib (no variab)
+PKS 1343-601  Cen B                 | 309.72   1.73 | 13:46:49.04  -60:24:29.4   mas        VLBI              | v=3872  | cD;                     79 Jy                no   ~10', one-sided
+3C 295                              |  97.51  60.80 | 14 11 20.46  +52 12 09.5   1.25x1.25  2Mass             | z=0.46  | E/S0, NLRG, FRII;       22 Jy     X          ok   ~10", ext double lobe, no core; no flux var: prim flux calib
+3C 309.1                            | 109.98  42.10 | 14:59:07.58  +71:40:19.9   mas        VLBI 2.3/8.4 GHz  | z=0.91  | Sy 1.5, core-dom;        8 Jy     X          ok   <10"
+PKS 1610-60  ESO 137-G006           | 325.29  -7.21 | 16:15:03.85  -60:54:26.1   1.25x1.25  2Mass             | v=5480  | cD;                     43 Jy                no   ~8', strong inner lobes; in A3627
+PKS 1630-47  CTB 33                 | 336.83   0.04 | 16:34:36.4   -47:35:56    50x50       PKS90             |         | --;                     87 Jy                ??   
+PKS 1636-46                         | 337.97  -0.11 | 16:39:48.5   -46:51:01    50x50       PKS90             |         | HII;                    53 Jy                no   prob ext'd
+Hercules A  3C 348  PKS 1648+05     |  23.05  28.95 | 16 51 08.02  +04 59 34.9   1.25x1.25  2Mass             | z=0.15  | i.a. E/S0 pair, NLRG;   48 Jy     X          no   ~5', FRI/FRII
+3C 353  PKS 1717-00                 |  21.20  19.65 | 17:20:28.15  -00:58:46.8   1.25x1.25  2Mass             | v=9120  | S0 NLRG;                56 Jy                no   ~5', FRII
+3C 358  PKS 1727-21                 |   4.53   6.83 | 17:30:40.82  -21:29:11.4  10.5x10.0   Molonglo 408 MHz  |         | PN, SNR (Kepler), HII;  14 Jy     I, X       ok?  ~3' @ 160MHz, centralized?;
+PKS 1737-30                         |  57.66  -0.09 | 17:40:16.36  -30:58:18.9   2.2x1.3    Texas Int 365 MHz |         | asymm double            35 Jy                no   ~6' @ 160MHz
+Sagittarius A*  CTB 42              | 359.94  -0.04 | 17:45:40.03  -29:00:28.1   mas        VLA high-fr       |         | MBH;                    ?? Jy     X, Gam     no   
+PKS 1814-63                         | 330.85 -20.76 | 18:19:35.00  -63:45:48.2   mas        VLBI 2.3/8.4 GHz  | z=0.06  | Sy 2;                   12 Jy                ok   CSS with double lobes
+PKS 1821-12                         |  18.71   0.32 | 18:23:55.7   -12:28:38    50x50       PKS90             |         | --;                     15 Jy                ??   
+3C 380                              |  77.23  23.50 | 18:29:31.78  +48:44:46.2   mas        VLBI 2.3/8.4 GHz  | z=0.69  | Sy1.5, core-dom;        14 Jy     X          ok   <15", FRII
+PKS 1844-02  W 43                   |  30.64  -0.01 | 18:47:18.1   -02:02:40    50x50       PKS90             |         | SNR                    330 Jy                no   prob ext'd
+3C 391  PKS 1846-00                 |  31.88   0.05 | 18:49:22.7   -00:55:19    22.8x17.1   NRAO 1400 MHz     |         | HII;                    20 Jy                no   prob ext'd
+3C 396                              |  39.22  -0.31 | 19:04:06.3   +05:26:26    22.8x17     NRAO 1400 MHz     |         | HII;                    13 Jy                no   prob ext'd
+PKS J1924-2914                      |   9.34 -19.60 | 19:24:51.06  -29:14:30.1   mas        VLBI 2.3/8.4 GHz  | z=0.35  | QSO, BLLAC;              6 Jy     X          ok   compact, pol, OVV
+PKS 1934-63                         | 332.75 -29.39 | 19:39:25.03  -63:42:45.7   mas        VLBI 2.3/8.4 GHz  | z=0.18  | Sy2;                    16 Jy                ok   compact; GPS src
+Cygnus A  3C 405                    |  76.19   5.76 | 19:59:28.36  +40:44:02.1   mas        VLBI              | z=0.06  | Sy 2;                 1590 Jy     I, X       ok   ~3'; double radio src, cD, FRII
+3C 409  PKS 2012+23                 |  63.40  -6.12 | 20:14:27.60  +23:34:52.9   0.7x0.4    Texas Int 365 MHz |         | --;                     14 Jy                ok   ~3'
+Cygnus X  TXS 2037+421              |  81.68   0.53 | 20:39:01.30  +42:19:36.5   7.5x7.5    VLA 1400MHz       |         | HII;                   ~19 Jy                no   ext'd 327 MHz src: probably Galactic
+NGC 7027                            |  84.93  -3.50 | 21 07 02.67  +42 14 09.8   1.25x1.25  2Mass             |         | PN;                      1.3 Jy              ok   opt size < 0.5'; no flux var -> flux calib
+NGC 7018  PKS 2104-25               |  21.47 -40.18 | 21:07:20.66  -25:26:12.3  10.1x10     Molonglo 408 MHz  | z=0.04  | E pec;                  11 Jy                ok   <2', core & lobes?
+3C 433                              |  74.48 -17.69 | 21:23:44.53  +25:04:11.9   0.8x0.7    Texas Int 365 MHz | z=0.10  | Sy2 NLRG FRI;           11 Jy                ok   <2', edge-darkened appearance
+PKS 2153-69  ESO 075-G041           | 321.32 -40.65 | 21:57:05.98  -69:41:23.7   mas        VLBI 2.3/8.4 GHz  | v=8476  | S0, Sy1/2?;             30 Jy     I, X       ok   ~4' incl faint comp, FRII
+3C 454.3  PKS 2251+15               |  86.11 -38.18 | 22:53:57.75  +16:08:53.6   mas        VLBI 2.3/8.4 GHz  | z=0.86  | QSO Core-dom, blazar;   12 Jy     X, Gam     ok   <10", core & jet, OVV
+PKS 2356-61                         |  14.02 -55.07 | 23:59:04.36  -60:54:59.3   1.25x1.25  Molonglo 408 MHz  | z=0.96  | Sy2;                    25 Jy                no   ~6', FRII 2 compact outer lobes
+#CSS = compact steep spectruml; GPS = GHz peaked source OVV = optical violent variable

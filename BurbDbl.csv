@@ -1,0 +1,91 @@
+#IAUname,Alias1,Alias2,redshift,Q/B/G,RA2000,Dec2000,fromfile,LAS,Xrayref,LFVref,etc
+0007+106, IIIZw2, , 0.089, , , , Burbidge, , , , 50arcsec from GalaxyB
+0018+006, UM228, , 0.102, , , , Burbidge, , , , 516arcsec from NGC78B
+0024-019, UM245, , 1.46, , , , Burbidge, , , , 240arcsec from NGC120
+0027+018, UM247, , 2.35, , , , Burbidge, , , , 300arcsec from NGC132
+0032-082, BSO1, , 0.756, , , , Burbidge, , , , 119arcsec from NGC157companion
+0038-019, PKS, , 1.690, , , , Burbidge, , , , 67arcsec from NGC227companion
+0038-020, PKS, , 1.178, , , , Burbidge, , , , ~400arcsec from NGC227companion
+0040-017, UM268, , 1.66, , , , Burbidge, , , , 456arcsec from NGC227
+0106+013, PKS, , 2.107, , , , Burbidge, , , , 192arcsec from ZW0106.1+0123
+0112-017, PKS, , 1.265, , , , Burbidge, , , , 600arcsec from NGC448
+0121+018, MC2, , 0.510, , , , Burbidge, , , , 40arcsec from anonymous gal
+0132-075, UB1, , 1.64, , , , Burbidge, , , , 235arcsec from NGC615
+0133+004, UB1, , 0.91, , , , Burbidge, , , , 71arcsec from NGC622
+0133+004, BSO1, , 1.64, , , , Burbidge, , , , 73arcsec from NGC622
+0151+045, PHL1226, , 0.404, , , , Burbidge, , , , 54arcsec from IC1746
+0156+187, UB2, , 2.61, , , , Burbidge, , , , 352arcsec from NGC772
+0219+428, 3C66A, , 0.444, , , , Burbidge, , , , 390arcsec from 3C66B
+0225-014, PKS, , 2.037, , , , Burbidge, , , , 302arcsec from NGC936companion
+0225-014, UB1, , 1.13, , , , Burbidge, , , , 101arcsec from NGC936companion
+0240-002, BSO1, , 1.945, , , , Burbidge, , , , 104arcsec from NGC1073
+0240-002, BSO2, , 0.599, , , , Burbidge, , , , 117arcsec from NGC1073
+0240-002, RSO, , 1.411, , , , Burbidge, , , , 84arcsec from NGC1073
+0243-007, UB1, , 2.147, , , , Burbidge, , , , 170arcsec from NGC1087
+0317-023, 4C-02.15, , 2.092, , , , Burbidge, , , , 228arcsec from NGC1298
+0809+558, UB1, , 2.40, , , , Burbidge, , , , 121arcsec from Mkn85
+0814+579, BSO1, , 2.40, , , , Burbidge, , , , 134arcsec from NGC2549companion
+0841+499, U1, , 1.177, , , , Burbidge, , , , 188arcsec from NGC2639companion
+0844+319, , , 1.834, , , , Burbidge, , , , 30arcsec from NGC2402
+0846+513, W1, , 1.860, , , , Burbidge, , , , 12arcsec from NGC2681companion
+0853+515, UB1, , 2.31, , , , Burbidge, , , , 188arcsec from NGC2693companion
+0855+539, UB1, , 0.243, , , , Burbidge, , , , 110arcsec from NGC2701companion
+0916+513, UB2, , 0.120, , , , Burbidge, , , , 200arcsec from NGC2841companion
+0917+514, UB1, , 2.028, , , , Burbidge, , , , 407arcsec from NGC2841companion
+0917+513, UB3, , 0.553, , , , Burbidge, , , , 220arcsec from NGC2841companion
+0921+349, U1, , 0.23, , , , Burbidge, , , , 60arcsec from NGC2859companion
+0923+349, U2, , 2.25, , , , Burbidge, , , , 66arcsec from NGC2859companion
+0923+345, U3, , 1.46, , , , Burbidge, , , , 73arcsec from NGC2859companion
+0924+301, , , 2.02, , , , Burbidge, , , , 480arcsec from B2
+0932+219, UB1, , 0.238, , , , Burbidge, , , , 216arcsec from NGC2916
+0932+220, UB2, , 0.739, , , , Burbidge, , , , 370arcsec from NGC2916
+0932+218, UB4, , 1.868, , , , Burbidge, , , , 586arcsec from NGC2916
+0952+698, HOAG1, , 2.048, , , , Burbidge, , , , 382arcsec from M82
+0952+698, HOAG2, , 2.048, , , , Burbidge, , , , 512arcsec from M82
+0952+698, HOAG3, , 2.048, , , , Burbidge, , , , 585arcsec from M82
+0955+326, 3C232, , 0.533, , , , Burbidge, , , , 114arcsec from NGC3067
+0958+558, UB1, , 1.53, , , , Burbidge, , , , 144arcsec from Mkn131
+0958+557, UB2, , 2.091, , , , Burbidge, , , , 530arcsec from Mkn131
+1015+415, UB3, , 0.92, , , , Burbidge, , , , 339arcsec from NGC3184companion
+1015+415, UB4, , 2.092, , , , Burbidge, , , , 278arcsec from NGC3184companion
+1021-006, PKS, , 2.547, , , , Burbidge, , , , 126arcsec from ZW1022.0-0036
+1039+140, UB2, , 2.14, , , , Burbidge, , , , 251arcsec from NGC3338companion
+1039+140, UB1, , 2.04, , , , Burbidge, , , , 218arcsec from NGC3338companion
+1046+128, UB1, , 1.111, , , , Burbidge, , , , 265arcsec from NGC3389
+1049+129, UB13, , 0.497, , , , Burbidge, , , , 149arcsec from NGC3384
+1049+616, 4C61.20, , 0.422, , , , Burbidge, , , , 173arcsec from NGC3407
+1107+036, 4c03.21, , 0.96, , , , Burbidge, , , , 20arcsec from anonymous gal
+1108+289, QS, , 2.192, , , , Burbidge, , , , 66arcsec from NGC3561
+1130+473, BSO1, , 1.13, , , , Burbidge, , , , 100arcsec from NGC3726companion
+1153+534, W1, , 1.75, , , , Burbidge, , , , 280arcsec from NGC3992companion
+1205-008, PKS, , 1.002, , , , Burbidge, , , , 9.4arcsec from anonymous gal
+1206+439, 3C268.4, , 1.400, , , , Burbidge, , , , 174arcsec from NGC4138
+1219+755, Mkn205, , 0.070, , , , Burbidge, , , , 42arcsec from NGC4319
+1222+102, WDM6, , , , , , Burbidge, , , , 88arcsec from NGC4380
+1223+338, UB1, , 1.265, , , , Burbidge, , , , 145arcsec from NGC4395companion
+1223+338, B6, , 1.038, , , , Burbidge, , , , 329arcsec from NGC4395companion
+1223+339, 3c270.1., , 1.265, , , , Burbidge, , , , 303arcsec from NGC4395companion
+1223+338, UB1, , 0.77, , , , Burbidge, , , , 370arcsec from NGC4395
+1233+125, WDM8, , 0.728, , , , Burbidge, , , , 44arcsec from NGC4550
+1241+166, 3C275.1, , 0.557, , , , Burbidge, , , , 210arcsec from NGC4651
+1253+104, MC2, , 0.824, , , , Burbidge, , , , 90arcsec from anonymous gal
+1316+423, UB1, , 0.910, , , , Burbidge, , , , 315arcsec from NGC5055companion
+1319+388, UB1, , 0.949, , , , Burbidge, , , , 40arcsec from NGC5107
+1342+440, BSO1, , 0.963, , , , Burbidge, , , , 55arcsec from NGC5296
+1428+498, UB2, , 0.205, , , , Burbidge, , , , 483arcsec from NGC5660
+1430+101, UB1, , 0.766, , , , Burbidge, , , , 95arcsec from NGC5682
+1441+522, 3C303C, , 1.570, , , , Burbidge, , , , 20arcsec from 3C303
+1458+718, 3C309.1, , 0.905, , , , Burbidge, , , , 372arcsec from NGC5832
+1505+559, BSO1, , 0.706, , , , Burbidge, , , , 436arcsec from NGC5866
+1537+595, UB1, , 2.132, , , , Burbidge, , , , 107arcsec from NGC5981
+1545+210, 3C323.1, , 0.264, , , , Burbidge, , , , 370arcsec from anonymous gal
+1548+114, MC2, , 1.901, , , , Burbidge, , , , 9arcsec from anonymous gal
+1749+701, W1, , 0.76, , , , Burbidge, , , , 324arcsec from NGC6503
+2020-370, PKS, , 1.048, , , , Burbidge, , , , 21arcsec from anonymous gal
+2158-134, BSO1, , 0.73, , , , Burbidge, , , , 76arcsec from IC1417
+2252+129, 3C455, , 0.543, , , , Burbidge, , , , 24arcsec from NGC7413
+2259+157, UB1, , 1.66, , , , Burbidge, , , , 128arcsec from NGC7465
+2305+187, 4C18.68, , 0.313, , , , Burbidge, , , , 7arcsec from anonymous gal
+2315-049, UB1, , 1.410, , , , Burbidge, , , , 415arcsec from NGC7592
+2333+019, UB1, , 1.871, , , , Burbidge, , , , 120arcsec from NGC7714companion
+2333+019, UB2, , 2.193, , , , Burbidge, , , , 480arcsec from NGC7714companion
