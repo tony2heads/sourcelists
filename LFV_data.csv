@@ -1,4 +1,4 @@
-#IAUname,Alias1,Alias2,redshift,Q/B/G,RA2000,Dec2000,fromfile,LAS,Xrayref,LFVref,etc
+#IAUname,Alias1,Alias2,redshift,Q/B/G,RA2000,Dec2000,fromfile,LAS,Xrayref,LFVref -etc
 0038+32, 3C19,,,,,,LFV list, ,, C?
 0051+317, 4C30.02,,,,,,LFV list, ,, Ct?
 0056-001,  ,,,,,,LFV list, ,, C? Mc?
